@@ -1,1 +1,1 @@
-- 1.Insertion Sort Projesi
+-- 1. Insertion Sort Projesi
