@@ -1,2 +1,2 @@
 # Algoritma-Projeleri
-[Patika.dev](https://www.patika.dev/tr)
+[Patika.dev](https://app.patika.dev/kyaylaci)
