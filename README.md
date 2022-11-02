@@ -1,2 +1,2 @@
 # Algoritma-Projeleri
-[Patika.dev](https://app.patika.dev/kyaylaci)
+[Patika profil adresim](https://app.patika.dev/kyaylaci)
